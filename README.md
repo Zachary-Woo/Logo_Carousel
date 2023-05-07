@@ -21,3 +21,5 @@ src--
    This was based on the logo-carousel found at CodeSandbox link:https://codesandbox.io/s/logo-carousel-e6dcnw
    
    The code uploaded has been modified to fit my project using .jsx instead of .tsx
+
+***** Note that the images are not here so make sure to include the proper image paths *****
